@@ -1,0 +1,15 @@
+HOW TO PLAY:
+
+BLOCKS:
+
+G = Grass
+D = Dirt
+C = Cobblestone
+L = Leaves
+W = Water
+P = Planks
+
+CONTROLS:
+
+Movement: Up, Down, Left, and Right
+Delete: Q
